@@ -11,6 +11,7 @@ Aplicação java que consome uma API do IMDb (Internet Movie Database), tendo co
 Construir uma aplicação do zero para consumir a API do IMDb e exibir os filmes mais populares, destacando seus pôsteres e visualizando sua classificação.
 
 ![image](https://user-images.githubusercontent.com/74260139/180036568-88390cdd-e580-4b88-bf68-a7914a6631fe.png)
+![image](https://user-images.githubusercontent.com/74260139/180044726-8c598978-573d-4158-a24a-c4f2576f75e8.png)
 
 ## Aula 02 - Gerando figurinhas para WhatsApp
 Criar um gerador de figurinhas explorando outras bibliotecas nativas do Java, para que possamos enviar por Whatsapp os nossos filmes preferidos.
