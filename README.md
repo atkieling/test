@@ -5,6 +5,8 @@
 ## Aula 01 - Consumindo uma API de filmes com Java
 Construir uma aplicação do zero para consumir a API do IMDb e exibir os filmes mais populares, destacando seus pôsteres e visualizando sua classificação.
 
+![image](https://user-images.githubusercontent.com/74260139/180036568-88390cdd-e580-4b88-bf68-a7914a6631fe.png)
+
 ## Aula 02 - Gerando figurinhas para WhatsApp
 Criar um gerador de figurinhas explorando outras bibliotecas nativas do Java, para que possamos enviar por Whatsapp os nossos filmes preferidos.
 
