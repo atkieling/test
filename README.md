@@ -2,6 +2,11 @@
 
 ![Badge em Desenvolvimento](http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge)
 
+Aplicação java que consome uma API do IMDb (Internet Movie Database), tendo como objetivos:
+- ...
+- A criação de stickers para aplicativos de mensagens;
+- ...
+
 ## Aula 01 - Consumindo uma API de filmes com Java
 Construir uma aplicação do zero para consumir a API do IMDb e exibir os filmes mais populares, destacando seus pôsteres e visualizando sua classificação.
 
