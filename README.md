@@ -10,7 +10,6 @@ Aplicação java que consome uma API do IMDb (Internet Movie Database), tendo co
 ## Aula 01 - Consumindo uma API de filmes com Java
 Construir uma aplicação do zero para consumir a API do IMDb e exibir os filmes mais populares, destacando seus pôsteres e visualizando sua classificação.
 
-![image](https://user-images.githubusercontent.com/74260139/180036568-88390cdd-e580-4b88-bf68-a7914a6631fe.png)
 ![image](https://user-images.githubusercontent.com/74260139/180084559-1d92449f-f594-4d46-b1f8-524183edaf8f.png)
 
 ## Aula 02 - Gerando figurinhas para WhatsApp
