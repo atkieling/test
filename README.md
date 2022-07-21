@@ -15,6 +15,8 @@ Construir uma aplicação do zero para consumir a API do IMDb e exibir os filmes
 ## Aula 02 - Gerando figurinhas para WhatsApp
 Criar um gerador de figurinhas explorando outras bibliotecas nativas do Java, para que possamos enviar por Whatsapp os nossos filmes preferidos.
 
+![image](https://user-images.githubusercontent.com/74260139/180316892-2df02fe2-5f5d-444e-bc42-860c96eb4f9d.png)
+
 ## Aula 03 - Ligando as pontas, refatoração e orientação a objetos
 
 ## Aula 04 - Criando nossa própria API com Spring
