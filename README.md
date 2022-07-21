@@ -4,7 +4,7 @@
 
 Aplicação java que consome uma API do IMDb (Internet Movie Database), tendo como objetivos:
 - ...
-- A criação de stickers para aplicativos de mensagens;
+- A criação de um gerador de stickers para aplicativos de mensagens;
 - ...
 
 ## Aula 01 - Consumindo uma API de filmes com Java
