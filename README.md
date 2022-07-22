@@ -18,7 +18,7 @@ Criar um gerador de figurinhas explorando outras bibliotecas nativas do Java, pa
 ![image](https://user-images.githubusercontent.com/74260139/180316892-2df02fe2-5f5d-444e-bc42-860c96eb4f9d.png)
 
 ## Aula 03 - Ligando as pontas, refatoração e orientação a objetos
-Aproveitar para melhorar o código com as refatorações necessárias para torná-lo mais flexível e fácil de entender.
+Consumir a API da NASA e gerar figurinhas com imagens do espaço, e também aproveitar para melhorar o código com as refatorações necessárias para torná-lo mais flexível e fácil de entender.
 
 ## Aula 04 - Criando nossa própria API com Spring
 
